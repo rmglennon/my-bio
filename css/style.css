@@ -4,6 +4,7 @@
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 150%;
  }
 
  header {
@@ -11,8 +12,12 @@
  }
 
  h1 {
- 	color: #eee;
- 	font-size: 28px;
+  padding: 20px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: #eee;
+  text-align: center;
  }
 
  h2 {
